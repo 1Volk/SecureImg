@@ -6,14 +6,6 @@
 
 ---
 
-## ✨ Features
-
-- 🖼️ Hides images from untrusted sources, replacing them with a link: **"Image from untrusted source"**
-- ✅ Supports a whitelist using Xenforo's **Media BB Code** system
-- ⚙️ Simple installation and configuration via the Xenforo Admin Panel
-
----
-
 ## 📦 Installation
 
 Follow these steps to install **XenforoSecureImg** on your Xenforo forum:
