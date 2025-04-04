@@ -2,7 +2,7 @@
 
 **SecureImg** is a plugin for Xenforo that hides images from untrusted sources, blocking potential threats like IP loggers and malicious scripts that could exploit cookies or execute unauthorized code.
 
-> 🔐 
+> 🔐 Requires PHP 7.2+ and XenForo 2.1.0+.
 
 ---
 
