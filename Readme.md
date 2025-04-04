@@ -1,6 +1,6 @@
-# 🛡️ XenforoSecureImg
+# 🛡️ SecureImg
 
-**XenforoSecureImg** is a plugin for Xenforo that hides images from untrusted sources, blocking potential threats like IP loggers and malicious scripts that could exploit cookies or execute unauthorized code.
+**SecureImg** is a plugin for Xenforo that hides images from untrusted sources, blocking potential threats like IP loggers and malicious scripts that could exploit cookies or execute unauthorized code.
 
 > 🔐 
 
@@ -8,7 +8,7 @@
 
 ## 📦 Installation
 
-Follow these steps to install **XenforoSecureImg** on your Xenforo forum:
+Follow these steps to install **SecureImg** on your Xenforo forum:
 
 ### 1. 🔽 Download the Plugin
 
@@ -18,13 +18,13 @@ Follow these steps to install **XenforoSecureImg** on your Xenforo forum:
 ### 2. 📁 Upload to Your Server
 
 - Extract the downloaded ZIP file if necessary.
-- Upload the contents of the `XenforoSecureImg` folder to the `src/addons/` directory in your Xenforo installation using an FTP client (e.g., FileZilla) or your hosting file manager.
+- Upload the contents to the `src/addons/` directory in your Xenforo installation using an FTP client (e.g., FileZilla) or your hosting file manager.
 
 ### 3. ⚙️ Install the Add-on
 
 - Log in to your Xenforo Admin Control Panel.
 - Go to `Add-ons` in the left sidebar.
-- Find `XenforoSecureImg` in the list of available add-ons and click `Install`.
+- Find `SecureImg` in the list of available add-ons and click `Install`.
 - After installation, the plugin will automatically start hiding images from untrusted sources and blocking potential threats.
 
 ---
