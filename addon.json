@@ -1,0 +1,23 @@
+{
+    "legacy_addon_id": "",
+    "title": "Secure Image",
+    "description": "Hides untrusted image sources.",
+    "version_id": 1000010,
+    "version_string": "1.0.1 Beta",
+    "dev": "Volk",      
+    "dev_url": "https://volkdev.su", 
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {},
+    "require": {
+        "XF": [
+            2010070,
+            "XenForo 2.1.0+"
+        ],
+        "php": [
+            "7.2.0",
+            "PHP 7.2.0+"
+        ]
+    },
+    "icon": "fa-images"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+    <phrase title="image_from_unknown_source" addon_id="Volk\SecureImg" version_id="1000011" version_string="1.0.1">
+        <![CDATA[Image from untrusted source]]>
+    </phrase>
+</phrases>
